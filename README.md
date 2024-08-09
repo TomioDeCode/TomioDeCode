@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm TomioDeCodee</h1>
 <h3 align="center">A Passionate Fullstack Developer from Indonesia</h3>
 
-<div style="gap: 20px">
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tomiodecode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -20,18 +19,21 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomiodecode" alt="Streak Stats" />
   </a>
 </div>
-</div>
+
+<br />
 
 <h3 align="left">About Me:</h3>
 <ul>
   <li>🌱 Currently learning <strong>React JS</strong> and <strong>Express JS</strong>.</li>
-  <li>👨‍💻 Check out my projects on [my portfolio](#).</li>
-  <li>📝 I regularly write articles on [my blog](#).</li>
+  <li>👨‍💻 Check out my projects on <a href="#">my portfolio</a>.</li>
+  <li>📝 I regularly write articles on <a href="#">my blog</a>.</li>
   <li>💬 Feel free to ask me about <strong>React JS</strong>.</li>
   <li>📫 Reach me at <strong>tomiodecode@gmail.com</strong>.</li>
-  <li>📄 Know more about my experiences: [Resume](#).</li>
+  <li>📄 Know more about my experiences: <a href="#">Resume</a>.</li>
   <li>⚡ Fun fact: I love coding with <strong>JavaScript</strong>!</li>
 </ul>
+
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +41,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
+
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -73,6 +77,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
+
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomiodecode&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
