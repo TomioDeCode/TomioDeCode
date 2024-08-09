@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm TomioDeCodee</h1>
 <h3 align="center">A Passionate Fullstack Developer from Indonesia</h3>
 
+<div style="gap: 20px">
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tomiodecode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -18,6 +19,7 @@
   <a href="https://github.com/tomiodecode">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomiodecode" alt="Streak Stats" />
   </a>
+</div>
 </div>
 
 <h3 align="left">About Me:</h3>
