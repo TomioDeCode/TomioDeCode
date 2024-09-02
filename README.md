@@ -24,7 +24,7 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>🌱 Currently learning <strong>React JS</strong> and <strong>Express JS</strong>.</li>
+  <li>🌱 Currently learning <strong>React JS</strong>, <strong>Express JS</strong>, and <strong>Laravel</strong>.</li>
   <li>👨‍💻 Check out my projects on <a href="#">my portfolio</a>.</li>
   <li>📝 I regularly write articles on <a href="#">my blog</a>.</li>
   <li>💬 Feel free to ask me about <strong>React JS</strong>.</li>
